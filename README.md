@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning Discord.py,Minecraft-Skript 
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m looking to collaborate on - 
 
 - 💬 Talk to me about Python, Minecraft-Skript 
 
