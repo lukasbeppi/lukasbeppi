@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasbeppi&show_icons=true&theme=dark&hide_border=true&locale=de&layout=compact" alt="lukasbeppi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasbeppi&" alt="lukasbeppi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasbeppi&theme=dark" alt="lukasbeppi" /></p>
