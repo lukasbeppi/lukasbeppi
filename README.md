@@ -17,7 +17,7 @@ I enjoy building new projects, improving existing systems and learning new techn
 
 - 🔭 Currently working on **Minecraft Plugins & Server Systems**
 - 🌱 Learning and improving my skills in **Java, Discord.py & Skript**
-- 🎮 Minecraft Developer with experience in **Paper/Spigot ecosystems**
+- 🎮 Minecraft Developer with experience in **Paper/Spigot Plugins**
 - 💬 Ask me about:
   - Minecraft Development
   - Skript
